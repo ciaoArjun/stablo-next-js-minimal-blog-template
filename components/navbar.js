@@ -58,7 +58,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                          Tech Products
                         </span>
                       )}
                     </a>
