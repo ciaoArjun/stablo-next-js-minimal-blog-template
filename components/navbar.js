@@ -26,18 +26,7 @@ export default function Navbar(props) {
     {
       label: "Archive",
       href: "/archive"
-    },
-    {
-      label: "Github",
-      href: "https://github.com/web3templates/stablo",
-      external: true
-    },
-    {
-      label: "Download",
-      href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
-      external: true
-    }
-  ];
+    }];
 
   const mobilemenu = [...leftmenu, ...rightmenu];
 
